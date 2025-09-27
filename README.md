@@ -10,3 +10,4 @@ making it useful for data gathering, monitoring news, or learning web automation
 
 Output :
 
+[scrapped_headlines.txt](https://github.com/user-attachments/files/22574276/scrapped_headlines.txt)
